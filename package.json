@@ -1,0 +1,36 @@
+{
+  "name": "pokezap",
+  "version": "1.0.0",
+  "description": "A simple Pokemon Bot for Whatsapp groups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaZenn-7/PokeZap.git"
+  },
+  "keywords": [
+    "Bot",
+    "NodeJs",
+    "Pokemon",
+    "PokeAPI",
+    "WhatsApp",
+    "Baileys"
+  ],
+  "author": "ramo s",
+  "license": "BSD-4-Clause",
+  "bugs": {
+    "url": "https://github.com/KaZenn-7/PokeZap/issues"
+  },
+  "homepage": "https://github.com/KaZenn-7/PokeZap#readme",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.7",
+    "axios": "^1.7.7",
+    "colors": "^1.4.0",
+    "fs-extra": "^11.2.0",
+    "moment-timezone": "^0.5.45",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
