@@ -188,3 +188,5 @@ async function INC() {
 INC().catch(async (e) => {
   console.log(colors.red("ERROR EM INICIAR.JS: " + e));
 });
+
+module.exports = INC;
