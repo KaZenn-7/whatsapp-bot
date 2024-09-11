@@ -1,6 +1,6 @@
 const prefix = "/";
 
-const numerodono = ["554196680375", "5511952997031"];
+const numerodono = ["5511952997031"];
 
 const ban = [];
 
