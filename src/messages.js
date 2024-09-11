@@ -339,8 +339,6 @@ async function startWhats(upsert, conn, qrcode, sessionStartTim) {
                 text: `
   ────────────────────────
   
-  ◈• ${tempo}
-  ◈• Remetente: @${sender2}
   ◈• Erro: Comando '${budy}' não encontrado.
   ◈• Dica: Digite '${prefix}menu' e leia com atenção.
   
