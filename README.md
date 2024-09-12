@@ -1,1 +1,3 @@
-A principio é só um bot simples para whatsapp, futuramente será integrado com uma espécie de jogo.
+A simple template for WhatsApp bots, using [@WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)
+
+Keep watching to see what this could become in a future...
